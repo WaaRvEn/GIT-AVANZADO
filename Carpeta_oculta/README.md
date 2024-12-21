@@ -1,0 +1,1 @@
+# Dentro de una carpeta oculta
