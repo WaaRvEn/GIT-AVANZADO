@@ -1,0 +1,5 @@
+#IGNORAR archivos o carpetas
+
+secret/**
+
+*.secret
